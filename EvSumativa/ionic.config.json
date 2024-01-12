@@ -1,0 +1,7 @@
+{
+  "name": "EvSumativa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
